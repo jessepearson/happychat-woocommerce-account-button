@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name         Happychat WooCommerce Account Button
+// @name         HC WC Account Button
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  
+// @description  Adds a WC account button to HC
 // @author       theonetheonlyjesse
 // @require      https://code.jquery.com/jquery-1.12.4.js
 // @match        https://*.happychat.io/*
-// @updateURL    
+// @updateURL    https://raw.githubusercontent.com/jessepearson/hc-wc-account-button/master/hc-wc-account-button.js
 // @grant        none
 // ==/UserScript==
 
